@@ -7,4 +7,7 @@ http://mygiis.org/GIISStudentcontract/FeesStructure.aspx?Campus=ZnynB5vn&show=E&
 * Straits International School  
 http://rawang.sisgroup.edu.my/
 
+* Inspiros international school  
+http://inspiros.edu.my/index.html
+
 * 
