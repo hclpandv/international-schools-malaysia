@@ -4,7 +4,7 @@
 https://www.mygiis.org/  
 http://mygiis.org/GIISStudentcontract/FeesStructure.aspx?Campus=ZnynB5vn&show=E&_ga=2.126934477.1539677968.1582193454-417744953.1582193454 
 
-* Brighton Internation School
+* Brighton Internation School  
 https://brighton.edu.my/  
 https://brighton.edu.myadmissions/tuition-fees-and-recurring-fee/  
 
