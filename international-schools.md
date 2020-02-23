@@ -1,4 +1,4 @@
-# international-schools-malaysia
+# International Schools in KL
 
 * Global India International school   
 https://www.mygiis.org/  
