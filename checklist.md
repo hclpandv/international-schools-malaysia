@@ -2,6 +2,9 @@
 
 * Driving License
 * Medicines
-* Pollution Mask
-* ~Item crossed~
+* ~Pollution Mask~
+* Leather belt
+* shorts + swimming shorts
+* secret pocket shirt decathlon
+
 
