@@ -1,8 +1,8 @@
 ### Checklist
 
 * Driving License
-* Medicines
-* Sanetizer
+* ~Medicines~
+* ~Sanetizer~
 * ~Pollution Mask~
 * ~Leather belt~
 * ~shorts + swimming shorts~
